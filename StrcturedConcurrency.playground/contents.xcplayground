@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Task &amp; async let'/>
+        <page name='Task Group'/>
+        <page name='Detached Task'/>
+        <page name='Task Cancellation'/>
+        <page name='AsyncSequence'/>
+        <page name='Actor'/>
+    </pages>
+</playground>
